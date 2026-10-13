@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /site
+Disallow: /site/
+
+Sitemap: https://slither-casino.vercel.app/sitemap.xml
